@@ -77,3 +77,12 @@ etc.
     ## Useful awesome list for Ruby cli : 
 
     - [Awesome-ruby](https://github.com/markets/awesome-ruby) by @markets : A curated list of awesome Go frameworks, libraries and software. Look at [#Cli builder](https://github.com/markets/awesome-ruby#cli-builder) and [#Cli-utilities](https://github.com/markets/awesome-ruby#cli-utilities)
+
+
+## **Contributing**
+Thanks for visiting! If you have suggestions, then open an issue, or submit a PR, see: CONTRIBUTING.md. Contributions are welcome, and much appreciated !
+
+## License
+
+[![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff)](https://creativecommons.org/licenses/by/4.0/)
+Licensed under Creative Commons, CC BY 4.0, © [HUGUET Rémi] (https://github.com/remiflavien1) 2020.
