@@ -43,7 +43,7 @@ etc.
 
     ## Useful awesome list for Go cli : 
 
-    - [Awesome-go](https://github.com/avelino/awesome-go) by  : A curated list of awesome Go frameworks, libraries and software. Look at [Command Line](https://github.com/avelino/awesome-go#command-line)
+    - [Awesome-go](https://github.com/avelino/awesome-go) by @avelino : A curated list of awesome Go frameworks, libraries and software. Look at [Command Line](https://github.com/avelino/awesome-go#command-line)
 
 
 
