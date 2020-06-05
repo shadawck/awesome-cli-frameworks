@@ -57,7 +57,7 @@ etc.
 - [Ink](https://github.com/vadimdemedes/ink) : React for interactive command-line apps. (See also [Pastel](https://github.com/vadimdemedes/pastel))
 
 - [node-seeli](https://github.com/esatterwhite/node-seeli) : Object orientated, event driven , Interactive CLI module. Seeli aims to give you the tools to compose A command line interface the way you want it, and otherwise, stays out of your way.
-- 
+
 - [Caporal.js](https://github.com/mattallty/Caporal.js) : A full-featured framework for building command line applications (cli) with node.js,  including help generation, colored output, verbosity control, custom logger, coercion and casting, typos suggestions, and auto-complete for bash/zsh/fish.
 
 - [args](https://github.com/leo/args) : Toolkit for building command line interfaces.
