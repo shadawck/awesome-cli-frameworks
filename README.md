@@ -91,4 +91,4 @@ Thanks for visiting! If you have suggestions, then open an issue, or submit a PR
 ## License
 
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff)](https://creativecommons.org/licenses/by/4.0/)
-Licensed under Creative Commons, CC BY 4.0, © [HUGUET Rémi] (https://github.com/remiflavien1) 2020.
+Licensed under Creative Commons, CC BY 4.0, © [HUGUET Rémi](https://github.com/remiflavien1) 2020.
