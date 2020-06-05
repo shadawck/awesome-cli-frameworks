@@ -41,11 +41,12 @@ etc.
 
 - [Clif](https://github.com/ukautz/clif) : Go framework for rapid command line application development.
 
-    ## Useful awesome list for Go cli : 
+    ### Useful awesome list for Go cli : 
 
     - [Awesome-go](https://github.com/avelino/awesome-go) by @avelino : A curated list of awesome Go frameworks, libraries and software. Look at [Command Line](https://github.com/avelino/awesome-go#command-line)
 
 
+# JavaScript
 
 - [Oclif](https://github.com/oclif/oclif) : Oclif is a framework for building CLIs in Node.js. This framework was built out of the Heroku CLI but generalized to build any custom CLI. It's designed both for single-file CLIs with a few flag options, or for very complex CLIs that have subcommands (like git or heroku).
 
@@ -56,6 +57,7 @@ etc.
 - [Ink](https://github.com/vadimdemedes/ink) : React for interactive command-line apps. (See also [Pastel](https://github.com/vadimdemedes/pastel))
 
 - [node-seeli](https://github.com/esatterwhite/node-seeli) : Object orientated, event driven , Interactive CLI module. Seeli aims to give you the tools to compose A command line interface the way you want it, and otherwise, stays out of your way.
+- 
 - [Caporal.js](https://github.com/mattallty/Caporal.js) : A full-featured framework for building command line applications (cli) with node.js,  including help generation, colored output, verbosity control, custom logger, coercion and casting, typos suggestions, and auto-complete for bash/zsh/fish.
 
 - [args](https://github.com/leo/args) : Toolkit for building command line interfaces.
@@ -78,7 +80,7 @@ etc.
 
 - [Gli](https://github.com/davetron5000/gli) : GLI allows you to create command-line app in Ruby that behaves like ```git``` in that it takes subcommands to perform a series of complex action.
 
-    ## Useful awesome list for Ruby cli : 
+    ### Useful awesome list for Ruby cli : 
 
     - [Awesome-ruby](https://github.com/markets/awesome-ruby) by @markets : A curated list of awesome Go frameworks, libraries and software. Look at [#Cli builder](https://github.com/markets/awesome-ruby#cli-builder) and [#Cli-utilities](https://github.com/markets/awesome-ruby#cli-utilities)
 
