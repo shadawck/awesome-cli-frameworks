@@ -82,8 +82,19 @@ etc.
 
     ### Useful awesome list for Ruby cli : 
 
-    - [Awesome-ruby](https://github.com/markets/awesome-ruby) by @markets : A curated list of awesome Go frameworks, libraries and software. Look at [#Cli builder](https://github.com/markets/awesome-ruby#cli-builder) and [#Cli-utilities](https://github.com/markets/awesome-ruby#cli-utilities)
+    - [Awesome-ruby](https://github.com/markets/awesome-ruby) by @markets : A curated list of awesome Ruby frameworks, libraries and software. Look at [#Cli builder](ttps://github.com/markets/awesome-ruby#cli-builder) and [#Cli-utilities](https://github.com/markets/awesome-ruby#cli-builder)
 
+# Rust
+
+- [Clap](https://github.com/clap-rs/clap) : A full featured, fast Command Line Argument Parser for Rust.
+
+- [TUI](https://github.com/fdehau/tui-rs) : Build terminal user interfaces and dashboards using Rust.
+
+- [StructOpt](https://github.com/TeXitoi/structopt) : Parse command line arguments by defining a struct.
+
+- [rust-argparse](https://github.com/tailhook/rust-argparse) : The command-line argument parser library for rust.
+
+- [Termion](https://lib.rs/crates/termion) : Pure Rust, bindless library for low-level handling, manipulating and reading information about terminals.
 
 ## **Contributing**
 Thanks for visiting! If you have suggestions, then open an issue, or submit a PR, see: CONTRIBUTING.md. Contributions are welcome, and much appreciated !
@@ -91,4 +102,4 @@ Thanks for visiting! If you have suggestions, then open an issue, or submit a PR
 ## License
 
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff)](https://creativecommons.org/licenses/by/4.0/)
-Licensed under Creative Commons, CC BY 4.0, © [HUGUET Rémi](https://github.com/remiflavien1) 2020.
+Licensed under Creative Commons, CC BY 4.0, © [HUGUET Rémi](https://github.com/shadawck).
