@@ -16,7 +16,7 @@
 
 - [Cement](https://github.com/datafolklabs/cement) : Cement is an advanced Application Framework for Python, with a primary focus on Command Line Interfaces (CLI). Its goal is to introduce a standard, and feature-full platform for both simple and complex command line applications as well as support rapid development needs without sacrificing quality.
 
-- [Docopt](https://github.com/docopt/docopt) : Pythonic command line arguments parser, that will make you smile. docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
+- [Docopt](https://github.com/docopt/docopt) / [Docopt-NG](https://github.com/jazzband/docopt-ng) : Pythonic command line arguments parser, that will make you smile. docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
 
 - [Python-Fire](https://github.com/google/python-fire) : Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
