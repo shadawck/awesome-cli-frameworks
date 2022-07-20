@@ -114,7 +114,7 @@ etc.
 
 - [php-cli](https://github.com/adhocore/php-cli) : PHP Console Application made easy- build great console apps with ease. Comes with Zero Dependency and Autocompletion support.
 
-- [php-cli-tools](https://github.com/wp-cli/php-cli-tools) :
+- [php-cli-tools](https://github.com/wp-cli/php-cli-tools) : A collection of tools to help with PHP command line utilities.
 
 - [Silly](https://github.com/mnapoli/silly) : Silly CLI micro-framework based on Symfony Console.
 
