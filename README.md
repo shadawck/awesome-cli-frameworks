@@ -140,6 +140,8 @@ etc.
 
 - [PyFiglet](https://github.com/pwaller/pyfiglet) : Pyfiglet is a full port of FIGlet (<http://www.figlet.org/>) into pure python. It takes ASCII text and renders it in ASCII art fonts.
 
+- [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) : Library for building powerful interactive command line applications in Python.
+
 # Ruby
 
 - [dry-ruby](https://github.com/dry-rb/dry-cli) : General purpose Command Line Interface (CLI) framework for Ruby.
