@@ -158,6 +158,10 @@ etc.
 
 - [Awesome-ruby](https://github.com/markets/awesome-ruby) by @markets : A curated list of awesome Ruby frameworks, libraries and software. Look at [#Cli builder](ttps://github.com/markets/awesome-ruby#cli-builder) and [#Cli-utilities](https://github.com/markets/awesome-ruby#cli-builder)
 
+# R
+
+- [cli](https://cli.r-lib.org/) : A suite of tools to build attractive command line interfaces (CLIs), from semantic elements: headers, lists, alerts, paragraphs, etc.
+
 # Rust
 
 - [Clap](https://github.com/clap-rs/clap) : A full featured, fast Command Line Argument Parser for Rust.
