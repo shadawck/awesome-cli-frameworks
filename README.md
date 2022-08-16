@@ -160,7 +160,7 @@ etc.
 
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) : Library for building powerful interactive command line applications in Python.
 
-# Ruby
+## Ruby
 
 - [dry-ruby](https://github.com/dry-rb/dry-cli) : General purpose Command Line Interface (CLI) framework for Ruby.
 
