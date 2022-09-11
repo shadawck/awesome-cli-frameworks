@@ -122,6 +122,12 @@ etc.
 - [clikt](https://github.com/ajalt/clikt) : Multiplatform command line interface parsing for Kotlin.
 - [kotlinx-cli](https://github.com/Kotlin/kotlinx-cli) : Pure Kotlin implementation of a generic CLI parser.
 
+## Ocaml
+
+- [cmdliner](https://github.com/dbuenzli/cmdliner) : Declarative definition of command line interfaces for OCaml.
+- [clap](https://github.com/rbardou/clap) : Command-Line Argument Parsing, imperative style with a consumption mechanism.
+- [minicli](https://github.com/UnixJunkie/minicli) : Minimalist OCaml library for command line parsing.
+
 ## PHP
 
 - [CliFramework](https://github.com/c9s/CLIFramework) : CLIFramework is a command-line application framework, for building flexiable, simple command-line applications.
