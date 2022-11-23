@@ -10,5 +10,6 @@ title = "Awesome CLI Framework"
 build-dir = "docs"
 
 [output.html]
+site-url = "/awesome-cli-frameworks/"
 additional-css = ["plugin/style.css"]
 additional-js = ["plugin/sidebar.js"]
