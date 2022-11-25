@@ -168,6 +168,8 @@ etc.
 
 - [Typer](https://typer.tiangolo.com/) : Library for building CLI applications that users will love using and developers will love creating. It's intended to be the FastAPI of CLIs.
 
+- [jsonargparse](https://jsonargparse.readthedocs.io/) : Implement minimal boilerplate CLIs derived from type hints and parse from command line, config files and environment variables.
+
 ## Ruby
 
 - [dry-ruby](https://github.com/dry-rb/dry-cli) : General purpose Command Line Interface (CLI) framework for Ruby.
