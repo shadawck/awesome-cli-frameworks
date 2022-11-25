@@ -156,6 +156,8 @@ etc.
 
 - [Docopt](https://github.com/docopt/docopt) / [Docopt-NG](https://github.com/jazzband/docopt-ng) : Pythonic command line arguments parser, that will make you smile. docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
 
+- [jsonargparse](https://jsonargparse.readthedocs.io/) : Implement minimal boilerplate CLIs derived from type hints and parse from command line, config files and environment variables.
+
 - [Python-Fire](https://github.com/google/python-fire) : Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
 - [PyCli](https://pythonhosted.org/pyCLI/) : The cli package is a framework for making simple, correct command line applications in Python. With cli, you can quickly add standard command line parsing; logging; unit and functional testing; and profiling to your CLI apps.
@@ -168,7 +170,6 @@ etc.
 
 - [Typer](https://typer.tiangolo.com/) : Library for building CLI applications that users will love using and developers will love creating. It's intended to be the FastAPI of CLIs.
 
-- [jsonargparse](https://jsonargparse.readthedocs.io/) : Implement minimal boilerplate CLIs derived from type hints and parse from command line, config files and environment variables.
 
 ## Ruby
 
