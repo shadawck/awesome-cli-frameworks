@@ -70,6 +70,8 @@ etc.
 
 - [Clif](https://github.com/ukautz/clif) : Go framework for rapid command line application development.
 
+- [Clifr](https://github.com/avamsi/clifr) : Clifr automagically creates multilevel CLIs (using [Cobra](https://github.com/spf13/cobra)) from Go structs (similar to --and, inspired by-- [python-fire](https://github.com/google/python-fire)).
+
 ### Useful awesome list for Go cli
 
 - [Awesome-go](https://github.com/avelino/awesome-go) by @avelino : A curated list of awesome Go frameworks, libraries and software. Look at [Command Line](https://github.com/avelino/awesome-go#command-line)
