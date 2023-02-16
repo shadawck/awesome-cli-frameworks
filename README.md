@@ -8,9 +8,14 @@
 
 ## Bash/Shell
 
-- [argc](https://github.com/sigoden/argc) A bash cli framework, also a task management & automation tool (written in rust).
+- [argc](https://github.com/sigoden/argc) : A bash cli framework, also a task management & automation tool (written in rust).
 
 - [Bashly](https://github.com/DannyBen/bashly) : A command line application (written in Ruby) that lets you generate feature-rich bash command line tools. Bashly lets you focus on your specific code, without worrying about command line argument parsing, usage texts, error messages and other functions that are usually handled by a framework in any other programming language.
+
+## Crystal
+
+- [Athena Console](https://github.com/athena-framework/console) : Allows for the creation of CLI based commands.
+- [OptionParser](https://crystal-lang.org/api/1.7.2/OptionParser.html) : Builtin class for command-line options processing.
 
 ## C++
 
@@ -215,6 +220,11 @@ etc.
 - [Commander](https://github.com/kylef/Commander) : Compose beautiful command line interfaces in Swift.
 
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) : Straightforward, type-safe argument parsing for Swift
+
+## V
+
+- [cli](https://modules.vlang.io/cli.html) : Builtin command line option parser, that supports declarative subcommands, each having separate set of options.
+- [flag](https://modules.vlang.io/flag.html): Builtin command line option parser.
 
 ## **Contributing**
 
