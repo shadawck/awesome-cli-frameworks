@@ -31,6 +31,11 @@
 
 - [gflags](https://github.com/gflags/gflags) : The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
 
+## Dart
+
+- [args](https://github.com/dart-lang/args) : Parses raw command-line arguments into a set of options and values.
+- [dcli](https://github.com/onepub-dev/dcli) : An API and tooling for building cross platform command line (CLI) applications and scripts using the Dart programming language.
+
 ## Deno
 
 - [deno-cliffy](https://github.com/c4spar/deno-cliffy) : Command line framework for deno sauropod Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
@@ -56,6 +61,10 @@
 ### Useful awesome list for Dotnet cli
 
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet/blob/master/README.md#cli) by @quozd : A collection of awesome .NET libraries, tools, frameworks, and software.
+
+## Elixir
+
+- [Owl](https://github.com/fuelen/owl) : Owl is a toolkit for writing command-line user interfaces in Elixir.
 
 ## Fortran
 
@@ -148,6 +157,10 @@ etc.
 - [Silly](https://github.com/mnapoli/silly) : Silly CLI micro-framework based on Symfony Console.
 
 - [Symfony/Console](https://github.com/symfony/Console) : The Console component of symfony eases the creation of beautiful and testable command line interfaces.
+
+## Purescript
+
+- [Optparse](https://github.com/f-o-a-m/purescript-optparse) :  Applicative option parser.
 
 ## Python
 
