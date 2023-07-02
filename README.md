@@ -239,6 +239,10 @@ etc.
 - [cli](https://modules.vlang.io/cli.html) : Builtin command line option parser, that supports declarative subcommands, each having separate set of options.
 - [flag](https://modules.vlang.io/flag.html): Builtin command line option parser.
 
+## Zig
+
+- [zig-cli](https://github.com/sam701/zig-cli): A simple package for building command line apps in Zig.
+
 ## **Contributing**
 
 Thanks for visiting! If you have suggestions, then open an issue, or submit a PR, see: CONTRIBUTING.md. Contributions are welcome, and much appreciated !
