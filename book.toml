@@ -13,5 +13,5 @@ build-dir = "docs"
 site-url = "/awesome-cli-frameworks/"
 git-repository-url = "https://github.com/shadawck/awesome-cli-frameworks"
 preferred-dark-theme = "navy"
-additional-css = ["plugin/style.css"]
-additional-js = ["plugin/sidebar.js"]
+#additional-css = ["plugin/style.css"]
+#additional-js = ["plugin/sidebar.js"]

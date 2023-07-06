@@ -8,16 +8,19 @@
     main {
         position: relative;
     }
+
     .sidetoc {
         margin-left: auto;
         margin-right: auto;
         left: calc(100% + (var(--content-max-width))/4 - 140px);
         position: absolute;
     }
+
     .pagetoc {
         position: fixed;
         width: 200px;
     }
+
     .pagetoc a {
         border-left: 1px solid var(--sidebar-bg);
         color: var(--fg) !important;
@@ -28,11 +31,13 @@
         text-align: left;
         text-decoration: none;
     }
+
     .pagetoc a:hover,
     .pagetoc a.active {
         background: var(--sidebar-bg);
         color: var(--sidebar-fg) !important;
     }
+
     .pagetoc .active {
         background: var(--sidebar-bg);
         color: var(--sidebar-fg);

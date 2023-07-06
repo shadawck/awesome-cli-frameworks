@@ -1,28 +1,28 @@
 // Un-active everything when you click it
-Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function(el, i) {
-    el.addEventHandler("click", function() {
-        Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function(el, i) {
+Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function (el, i) {
+    el.addEventHandler("click", function () {
+        Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function (el, i) {
             el.classList.remove("active");
         });
         el.classList.add("active");
     });
 });
 
-var updateFunction = function() {
+var updateFunction = function () {
 
     var id;
     var elements = document.getElementsByClassName("header");
-    Array.prototype.forEach.call(elements, function(el, i) {
+    Array.prototype.forEach.call(elements, function (el, i) {
         if (window.pageYOffset >= el.offsetTop) {
             id = el;
         }
     });
 
-    Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function(el, i) {
+    Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function (el, i) {
         el.classList.remove("active");
     });
 
-    Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function(el, i) {
+    Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function (el, i) {
         if (id.href.localeCompare(el.href) == 0) {
             el.classList.add("active");
         }
@@ -30,10 +30,10 @@ var updateFunction = function() {
 };
 
 // Populate sidebar on load
-window.addEventListener('load', function() {
+window.addEventListener('load', function () {
     var pagetoc = document.getElementsByClassName("pagetoc")[0];
     var elements = document.getElementsByClassName("header");
-    Array.prototype.forEach.call(elements, function(el, i) {
+    Array.prototype.forEach.call(elements, function (el, i) {
         var link = document.createElement("a");
 
         // Indent shows hierarchy

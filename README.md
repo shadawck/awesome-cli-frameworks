@@ -12,12 +12,13 @@
 
 - [Bashly](https://github.com/DannyBen/bashly) : A command line application (written in Ruby) that lets you generate feature-rich bash command line tools. Bashly lets you focus on your specific code, without worrying about command line argument parsing, usage texts, error messages and other functions that are usually handled by a framework in any other programming language.
 
-## Crystal
+## [Crystal](https://crystal-lang.org/)
 
 - [Athena Console](https://github.com/athena-framework/console) : Allows for the creation of CLI based commands.
+
 - [OptionParser](https://crystal-lang.org/api/1.7.2/OptionParser.html) : Builtin class for command-line options processing.
 
-## C++
+## [C++](https://www.cpp-lang.net/)
 
 - [argh!](https://github.com/adishavit/argh) : Argh! A minimalist argument handler.
 
@@ -31,16 +32,17 @@
 
 - [gflags](https://github.com/gflags/gflags) : The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
 
-## Dart
+## [Dart](https://dart.dev/)
 
 - [args](https://github.com/dart-lang/args) : Parses raw command-line arguments into a set of options and values.
+
 - [dcli](https://github.com/onepub-dev/dcli) : An API and tooling for building cross platform command line (CLI) applications and scripts using the Dart programming language.
 
-## Deno
+## [Deno](https://deno.land/)
 
 - [deno-cliffy](https://github.com/c4spar/deno-cliffy) : Command line framework for deno sauropod Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
 
-## Dotnet/C\#
+## [Dotnet/C\#](https://dotnet.microsoft.com/)
 
 - [CliFX](https://github.com/Tyrrrz/CliFx) : A simple to use, yet powerful framework for building command line applications. Its primary goal is to completely take over the user input layer, allowing you to forget about infrastructural concerns and instead focus on writing your application.
 
@@ -62,20 +64,21 @@
 
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet/blob/master/README.md#cli) by @quozd : A collection of awesome .NET libraries, tools, frameworks, and software.
 
-## Elixir
+## [Elixir](https://elixir-lang.org/)
 
 - [Owl](https://github.com/fuelen/owl) : Owl is a toolkit for writing command-line user interfaces in Elixir.
 
-## Fortran
+## [Fortran](https://fortran-lang.org/)
 
 - [FLAP](https://github.com/szaghi/FLAP) : A KISS pure Fortran Library for building powerful, easy-to-use, elegant command line interfaces.
 
-## Go
+## [Go](https://go.dev/)
 
 - [cli](https://github.com/urfave/cli) : A simple, fast, and fun package for building command line apps in Go.
 
 - [Cobra](https://github.com/spf13/cobra) : Many of the most widely used Go projects are built using Cobra, such as: [Kubernetes](http://kubernetes.io/), [Hugo](http://gohugo.io), [rkt](https://github.com/coreos/rkt), [etcd](https://github.com/coreos/etcd), [Moby (former Docker)](https://github.com/moby/moby), [Docker (distribution)](https://github.com/docker/distribution), [OpenShift](https://www.openshift.com/), [Delve](https://github.com/derekparker/delve), [GopherJS](http://www.gopherjs.org/), [CockroachDB](http://www.cockroachlabs.com/), [Bleve](http://www.blevesearch.com/), [ProjectAtomic (enterprise)](http://www.projectatomic.io/), [Giant Swarm's gsctl](https://github.com/giantswarm/gsctl), [Nanobox](https://github.com/nanobox-io/nanobox)/[Nanopack](https://github.com/nanopack), [rclone](http://rclone.org/), [nehm](https://github.com/bogem/nehm), [Pouch](https://github.com/alibaba/pouch), [Istio](https://istio.io), [Prototool](https://github.com/uber/prototool), [mattermost-server](https://github.com/mattermost/mattermost-server), [Gardener](https://github.com/gardener/gardenctl), [Linkerd](https://linkerd.io/),
 etc.
+
 - [Golang Agrparse](https://github.com/akamensky/argparse) : The goal of this project is to bring ease of use and flexibility of argparse (Python) to Go.
 
 - [Docopt Go](https://github.com/docopt/docopt.go) : docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
@@ -88,13 +91,15 @@ etc.
 
 - [Awesome-go](https://github.com/avelino/awesome-go) by @avelino : A curated list of awesome Go frameworks, libraries and software. Look at [Command Line](https://github.com/avelino/awesome-go#command-line)
 
-## Haskell
+## [Haskell](https://www.haskell.org/)
 
 - [CmdArgs](https://github.com/ndmitchell/cmdargs) : CmdArgs is a Haskell library for defining command line parsers.
+
 - [Docopt.hs](https://github.com/docopt/docopt.hs) : A Haskell port of python's docopt.
+
 - [optparse-applicative](https://github.com/pcapriotti/optparse-applicative) : A haskell library for parsing options on the command line, and providing a powerful applicative interface for composing them. It takes care of reading and validating the arguments passed to the command line, handling and reporting errors, generating a usage line, a comprehensive help screen, and enabling context-sensitive bash, zsh, and fish completions.
 
-## Java
+## [Java](https://dev.java/)
 
 - [args4j](https://github.com/kohsuke/args4j) : A small Java class library that makes it easy to parse command line options/arguments in your CLI application.
 
@@ -105,7 +110,7 @@ etc.
 
 - [Picocli](https://github.com/remkop/picocli) : A modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease.
 
-## JavaScript
+## [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - [Oclif](https://github.com/oclif/oclif) : Oclif is a framework for building CLIs in Node.js. This framework was built out of the Heroku CLI but generalized to build any custom CLI. It's designed both for single-file CLIs with a few flag options, or for very complex CLIs that have subcommands (like git or heroku).
 
@@ -127,22 +132,41 @@ etc.
 
 - [Yargs](https://github.com/yargs/yargs) : Yargs helps you build interactive command line tools, by parsing arguments and generating an elegant user interface.
 
-## Julia
+## [Julia](https://julialang.org/)
 
 - [Comonicon.jl](https://github.com/comonicon/Comonicon.jl) : Your best CLI generator in JuliaLang.
 
-## Kotlin
+## [Kotlin](https://kotlinlang.org/)
 
 - [clikt](https://github.com/ajalt/clikt) : Multiplatform command line interface parsing for Kotlin.
+
 - [kotlinx-cli](https://github.com/Kotlin/kotlinx-cli) : Pure Kotlin implementation of a generic CLI parser.
 
-## Ocaml
+## [Nim](https://nim-lang.org/)
+
+- [clapfn](https://github.com/oliverdelancey/clapfn) : A fast and simple command line argument parser for Nim.
+
+- [cliche](https://github.com/juancarlospaco/cliche) : AutoMagic CLI argument parsing is cliche.
+
+- [cligen](https://github.com/c-blake/cligen) : Nim library to infer/generate command-line-interfaces / option / argument parsing.
+
+- [docopt.nim](https://github.com/docopt/docopt.nim) : Command line arguments parser that will make you smile (port of docopt to Nim).
+
+- [loki](https://github.com/beshrkayali/loki) : A small library for writing line-oriented command interpreters in Nim.
+
+- [nim-argparse](https://github.com/iffy/nim-argparse) : Command line argument parsing library.
+
+- [nim-confutils](https://github.com/status-im/nim-confutils) : Simplified handling of command line options and config files.
+
+## [Ocaml](https://ocaml.org/)
 
 - [cmdliner](https://github.com/dbuenzli/cmdliner) : Declarative definition of command line interfaces for OCaml.
+
 - [clap](https://github.com/rbardou/clap) : Command-Line Argument Parsing, imperative style with a consumption mechanism.
+
 - [minicli](https://github.com/UnixJunkie/minicli) : Minimalist OCaml library for command line parsing.
 
-## PHP
+## [PHP](https://www.php.net/)
 
 - [CliFramework](https://github.com/c9s/CLIFramework) : CLIFramework is a command-line application framework, for building flexiable, simple command-line applications.
 
@@ -158,11 +182,11 @@ etc.
 
 - [Symfony/Console](https://github.com/symfony/Console) : The Console component of symfony eases the creation of beautiful and testable command line interfaces.
 
-## Purescript
+## [Purescript](https://www.purescript.org/)
 
 - [Optparse](https://github.com/f-o-a-m/purescript-optparse) :  Applicative option parser.
 
-## Python
+## [Python](https://www.python.org/)
 
 - [Argparse](https://docs.python.org/3/library/argparse.html) : Argparse is the default python module for creating command lines programs. It provides all the features you need to build a simple CLI.
 
@@ -188,7 +212,7 @@ etc.
 
 - [Typer](https://typer.tiangolo.com/) : Library for building CLI applications that users will love using and developers will love creating. It's intended to be the FastAPI of CLIs.
 
-## Ruby
+## [Ruby](https://www.ruby-lang.org/)
 
 - [dry-ruby](https://github.com/dry-rb/dry-cli) : General purpose Command Line Interface (CLI) framework for Ruby.
 
@@ -206,11 +230,11 @@ etc.
 
 - [Awesome-ruby](https://github.com/markets/awesome-ruby) by @markets : A curated list of awesome Ruby frameworks, libraries and software. Look at [#Cli builder](ttps://github.com/markets/awesome-ruby#cli-builder) and [#Cli-utilities](https://github.com/markets/awesome-ruby#cli-builder)
 
-## R
+## [R](https://www.r-project.org/)
 
 - [cli](https://cli.r-lib.org/) : A suite of tools to build attractive command line interfaces (CLIs), from semantic elements: headers, lists, alerts, paragraphs, etc.
 
-## Rust
+## [Rust](https://www.rust-lang.org/)
 
 - [Clap](https://github.com/clap-rs/clap) : A full featured, fast Command Line Argument Parser for Rust.
 
@@ -224,22 +248,22 @@ etc.
 
 - [Termion](https://lib.rs/crates/termion) : Pure Rust, bindless library for low-level handling, manipulating and reading information about terminals.
 
-## Scala
+## [Scala](https://www.scala-lang.org/)
 
 - [scopt](https://github.com/scopt/scopt) : Command line options parsing for Scala.
 
-## Swift
+## [Swift](https://www.swift.org/)
 
 - [Commander](https://github.com/kylef/Commander) : Compose beautiful command line interfaces in Swift.
 
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) : Straightforward, type-safe argument parsing for Swift
 
-## V
+## [V](https://vlang.io/)
 
 - [cli](https://modules.vlang.io/cli.html) : Builtin command line option parser, that supports declarative subcommands, each having separate set of options.
 - [flag](https://modules.vlang.io/flag.html): Builtin command line option parser.
 
-## Zig
+## [Zig](https://ziglang.org/)
 
 - [zig-cli](https://github.com/sam701/zig-cli): A simple package for building command line apps in Zig.
 
