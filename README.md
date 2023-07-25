@@ -6,6 +6,45 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff)](https://creativecommons.org/licenses/by/4.0/)
 
+## Contents
+<!-- TOC -->
+
+- [Awesome-cli-framework](#awesome-cli-framework)
+    - [Contents](#contents)
+    - [Bash/Shell](#bashshell)
+    - [Crystal](#crystal)
+    - [C++](#c)
+    - [Dart](#dart)
+    - [Deno](#deno)
+    - [Dotnet/C\#](#dotnetc%5C)
+        - [Useful awesome list for Dotnet cli](#useful-awesome-list-for-dotnet-cli)
+    - [Elixir](#elixir)
+    - [Fortran](#fortran)
+    - [Go](#go)
+        - [Useful awesome list for Go cli](#useful-awesome-list-for-go-cli)
+    - [Haskell](#haskell)
+    - [Java](#java)
+    - [JavaScript](#javascript)
+    - [Julia](#julia)
+    - [Kotlin](#kotlin)
+    - [Nim](#nim)
+    - [Ocaml](#ocaml)
+    - [PHP](#php)
+    - [Purescript](#purescript)
+    - [Python](#python)
+    - [Ruby](#ruby)
+        - [Useful awesome list for Ruby cli](#useful-awesome-list-for-ruby-cli)
+    - [R](#r)
+    - [Rust](#rust)
+    - [Scala](#scala)
+    - [Swift](#swift)
+    - [V](#v)
+    - [Zig](#zig)
+    - [**Contributing**](#contributing)
+    - [License](#license)
+
+<!-- /TOC -->
+
 ## Bash/Shell
 
 - [argc](https://github.com/sigoden/argc) : A bash cli framework, also a task management & automation tool (written in rust).
@@ -75,6 +114,8 @@
 ## [Go](https://go.dev/)
 
 - [cli](https://github.com/urfave/cli) : A simple, fast, and fun package for building command line apps in Go.
+
+- [climate](https://github.com/avamsi/climate) : Autogenerates CLIs from structs / functions (nested subcommands, global / local flags, help generation, typo suggestions, shell completion etc.)
 
 - [Cobra](https://github.com/spf13/cobra) : Many of the most widely used Go projects are built using Cobra, such as: [Kubernetes](http://kubernetes.io/), [Hugo](http://gohugo.io), [rkt](https://github.com/coreos/rkt), [etcd](https://github.com/coreos/etcd), [Moby (former Docker)](https://github.com/moby/moby), [Docker (distribution)](https://github.com/docker/distribution), [OpenShift](https://www.openshift.com/), [Delve](https://github.com/derekparker/delve), [GopherJS](http://www.gopherjs.org/), [CockroachDB](http://www.cockroachlabs.com/), [Bleve](http://www.blevesearch.com/), [ProjectAtomic (enterprise)](http://www.projectatomic.io/), [Giant Swarm's gsctl](https://github.com/giantswarm/gsctl), [Nanobox](https://github.com/nanobox-io/nanobox)/[Nanopack](https://github.com/nanopack), [rclone](http://rclone.org/), [nehm](https://github.com/bogem/nehm), [Pouch](https://github.com/alibaba/pouch), [Istio](https://istio.io), [Prototool](https://github.com/uber/prototool), [mattermost-server](https://github.com/mattermost/mattermost-server), [Gardener](https://github.com/gardener/gardenctl), [Linkerd](https://linkerd.io/),
 etc.
