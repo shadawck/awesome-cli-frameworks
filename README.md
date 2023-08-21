@@ -289,6 +289,8 @@ etc.
 
 - [Termion](https://lib.rs/crates/termion) : Pure Rust, bindless library for low-level handling, manipulating and reading information about terminals.
 
+- [Starbase](https://github.com/moonrepo/starbase#components) : Framework for building performant command line applications and developer tools.
+
 ## [Scala](https://www.scala-lang.org/)
 
 - [scopt](https://github.com/scopt/scopt) : Command line options parsing for Scala.
