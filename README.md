@@ -173,6 +173,8 @@ etc.
 
 - [Yargs](https://github.com/yargs/yargs) : Yargs helps you build interactive command line tools, by parsing arguments and generating an elegant user interface.
 
+- [Clerc](https://github.com/clercjs/clerc) : Clerc is a full-featured library for building CLI Apps in Node.js, Deno or Bun. It's strongly-typed, easy-to-use and flexible.
+
 ## [Julia](https://julialang.org/)
 
 - [Comonicon.jl](https://github.com/comonicon/Comonicon.jl) : Your best CLI generator in JuliaLang.
