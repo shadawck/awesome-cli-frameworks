@@ -23,6 +23,6 @@ jobs:
 
       - run: mdbook build
       - uses: stefanzweifel/git-auto-commit-action@v4
-	with:
-	  commit_message: Change github page source
-	  branch: master
+        with:
+          commit_message: Change github page source
+          branch: master
