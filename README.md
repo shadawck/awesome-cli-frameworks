@@ -49,7 +49,11 @@
 
 - [argc](https://github.com/sigoden/argc) : A bash cli framework, also a task management & automation tool (written in rust).
 
+- [argbash](https://github.com/matejak/argbash) : Bash argument parsing code generator.
+
 - [Bashly](https://github.com/DannyBen/bashly) : A command line application (written in Ruby) that lets you generate feature-rich bash command line tools. Bashly lets you focus on your specific code, without worrying about command line argument parsing, usage texts, error messages and other functions that are usually handled by a framework in any other programming language.
+
+- [gum](https://github.com/charmbracelet/gum) : A tool for glamorous shell scripts 🎀 (written in go).
 
 ## [Crystal](https://crystal-lang.org/)
 
@@ -70,6 +74,8 @@
 - [docopt.cpp](https://github.com/docopt/docopt.cpp) : C++11 port of docopt.
 
 - [gflags](https://github.com/gflags/gflags) : The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
+
+- [Lyra](https://github.com/bfgroup/Lyra) : A simple to use, composable, command line parser for C++ 11 and beyond.
 
 ## [Dart](https://dart.dev/)
 
@@ -121,6 +127,8 @@
 etc.
 
 - [Golang Agrparse](https://github.com/akamensky/argparse) : The goal of this project is to bring ease of use and flexibility of argparse (Python) to Go.
+
+- [go-arg](https://github.com/alexflint/go-arg) : Struct-based argument parsing in Go. 
 
 - [Docopt Go](https://github.com/docopt/docopt.go) : docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
 
