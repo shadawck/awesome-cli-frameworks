@@ -249,6 +249,8 @@ etc.
 
 - [Cement](https://github.com/datafolklabs/cement) : Cement is an advanced Application Framework for Python, with a primary focus on Command Line Interfaces (CLI). Its goal is to introduce a standard, and feature-full platform for both simple and complex command line applications as well as support rapid development needs without sacrificing quality.
 
+- [Cleo](https://github.com/python-poetry/cleo) : Cleo allows you to create beautiful and testable command-line interfaces.
+
 - [Docopt](https://github.com/docopt/docopt) / [Docopt-NG](https://github.com/jazzband/docopt-ng) : Pythonic command line arguments parser, that will make you smile. docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
 
 - [jsonargparse](https://jsonargparse.readthedocs.io/) : Implement minimal boilerplate CLIs derived from type hints and parse from command line, config files and environment variables.
