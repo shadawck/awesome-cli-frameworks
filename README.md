@@ -185,6 +185,8 @@ etc.
 
 - [Clerc](https://github.com/clercjs/clerc) : Clerc is a full-featured library for building CLI Apps in Node.js, Deno or Bun. It's strongly-typed, easy-to-use and flexible.
 
+- [Termost](https://github.com/adbayb/termost): A full-featured framework to build your next command line interfaces (CLI) in a minute. Thanks to its fluent and type-safe API, you can easily express and manage your program metadata (including version and help), sub-commands, user prompts, tasks, options and flags, ... 
+
 ## [Julia](https://julialang.org/)
 
 - [Comonicon.jl](https://github.com/comonicon/Comonicon.jl) : Your best CLI generator in JuliaLang.
