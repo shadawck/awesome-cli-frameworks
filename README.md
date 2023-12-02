@@ -295,7 +295,7 @@ etc.
 
 - [Clap](https://github.com/clap-rs/clap) : A full featured, fast Command Line Argument Parser for Rust.
 
-- [TUI](https://github.com/fdehau/tui-rs) : Build terminal user interfaces and dashboards using Rust.
+- [Ratatui]((https://github.com/ratatui-org/ratatui)) : Build terminal user interfaces and dashboards using Rust.
 
 - [StructOpt](https://github.com/TeXitoi/structopt) : Parse command line arguments by defining a struct.
 
