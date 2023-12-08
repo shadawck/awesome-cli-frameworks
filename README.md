@@ -136,6 +136,10 @@ etc.
 
 - [Clif](https://github.com/ukautz/clif) : Go framework for rapid command line application development.
 
+- [Kong](https://github.com/alecthomas/kong) : Kong aims to support arbitrarily complex command-line structures with as little developer effort as possible.
+
+- [Viper](https://github.com/spf13/viper) : Viper is a complete configuration solution for Go applications including 12-Factor apps. It is designed to work within an application, and can handle all types of configuration needs and formats.
+
 ### Useful awesome list for Go cli
 
 - [Awesome-go](https://github.com/avelino/awesome-go) by @avelino : A curated list of awesome Go frameworks, libraries and software. Look at [Command Line](https://github.com/avelino/awesome-go#command-line)
