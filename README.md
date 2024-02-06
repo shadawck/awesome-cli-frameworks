@@ -10,38 +10,38 @@
 <!-- TOC -->
 
 - [Awesome-cli-framework](#awesome-cli-framework)
-  - [Contents](#contents)
-  - [Bash/Shell](#bashshell)
-  - [Crystal](#crystal)
-  - [C++](#c)
-  - [Dart](#dart)
-  - [Deno](#deno)
-  - [Dotnet](#dotnet)
-    - [Useful awesome list for Dotnet cli](#useful-awesome-list-for-dotnet-cli)
-  - [Elixir](#elixir)
-  - [Fortran](#fortran)
-  - [Go](#go)
-    - [Useful awesome list for Go cli](#useful-awesome-list-for-go-cli)
-  - [Haskell](#haskell)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [Julia](#julia)
-  - [Kotlin](#kotlin)
-  - [Nim](#nim)
-  - [Ocaml](#ocaml)
-  - [PHP](#php)
-  - [Purescript](#purescript)
-  - [Python](#python)
-  - [Ruby](#ruby)
-    - [Useful awesome list for Ruby cli](#useful-awesome-list-for-ruby-cli)
-  - [R](#r)
-  - [Rust](#rust)
-  - [Scala](#scala)
-  - [Swift](#swift)
-  - [V](#v)
-  - [Zig](#zig)
-  - [**Contributing**](#contributing)
-  - [License](#license)
+    - [Contents](#contents)
+    - [Bash/Shell](#bashshell)
+    - [Crystal](#crystal)
+    - [C++](#c)
+    - [Dart](#dart)
+    - [Deno](#deno)
+    - [Dotnet](#dotnet)
+        - [Useful awesome list for Dotnet cli](#useful-awesome-list-for-dotnet-cli)
+    - [Elixir](#elixir)
+    - [Fortran](#fortran)
+    - [Go](#go)
+        - [Useful awesome list for Go cli](#useful-awesome-list-for-go-cli)
+    - [Haskell](#haskell)
+    - [Java](#java)
+    - [JavaScript](#javascript)
+    - [Julia](#julia)
+    - [Kotlin](#kotlin)
+    - [Nim](#nim)
+    - [Ocaml](#ocaml)
+    - [PHP](#php)
+    - [Purescript](#purescript)
+    - [Python](#python)
+    - [Ruby](#ruby)
+        - [Useful awesome list for Ruby cli](#useful-awesome-list-for-ruby-cli)
+    - [R](#r)
+    - [Rust](#rust)
+    - [Scala](#scala)
+    - [Swift](#swift)
+    - [V](#v)
+    - [Zig](#zig)
+    - [**Contributing**](#contributing)
+    - [License](#license)
 
 <!-- /TOC -->
 
@@ -128,7 +128,7 @@ etc.
 
 - [Golang Agrparse](https://github.com/akamensky/argparse) : The goal of this project is to bring ease of use and flexibility of argparse (Python) to Go.
 
-- [go-arg](https://github.com/alexflint/go-arg) : Struct-based argument parsing in Go. 
+- [go-arg](https://github.com/alexflint/go-arg) : Struct-based argument parsing in Go.
 
 - [Docopt Go](https://github.com/docopt/docopt.go) : docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
 
@@ -189,7 +189,7 @@ etc.
 
 - [Clerc](https://github.com/clercjs/clerc) : Clerc is a full-featured library for building CLI Apps in Node.js, Deno or Bun. It's strongly-typed, easy-to-use and flexible.
 
-- [Termost](https://github.com/adbayb/termost): A full-featured framework to build your next command line interfaces (CLI) in a minute. Thanks to its fluent and type-safe API, you can easily express and manage your program metadata (including version and help), sub-commands, user prompts, tasks, options and flags, ... 
+- [Termost](https://github.com/adbayb/termost): A full-featured framework to build your next command line interfaces (CLI) in a minute. Thanks to its fluent and type-safe API, you can easily express and manage your program metadata (including version and help), sub-commands, user prompts, tasks, options and flags, ...
 
 ## [Julia](https://julialang.org/)
 
@@ -257,9 +257,13 @@ etc.
 
 - [Cleo](https://github.com/python-poetry/cleo) : Cleo allows you to create beautiful and testable command-line interfaces.
 
+- [Clize](https://github.com/epsy/clize) : An argument parser for Python. You can use Clize as an alternative to argparse if you want an even easier way to create command-line interfaces.
+
 - [Docopt](https://github.com/docopt/docopt) / [Docopt-NG](https://github.com/jazzband/docopt-ng) : Pythonic command line arguments parser, that will make you smile. docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
 
 - [jsonargparse](https://jsonargparse.readthedocs.io/) : Implement minimal boilerplate CLIs derived from type hints and parse from command line, config files and environment variables.
+
+- [Plac](https://github.com/ialbert/plac) : Generate command line parameters from function signatures.
 
 - [Python-Fire](https://github.com/google/python-fire) : Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
@@ -270,6 +274,12 @@ etc.
 - [PyFiglet](https://github.com/pwaller/pyfiglet) : Pyfiglet is a full port of FIGlet (<http://www.figlet.org/>) into pure python. It takes ASCII text and renders it in ASCII art fonts.
 
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) : Library for building powerful interactive command line applications in Python.
+
+- [SimpleParsing](https://github.com/lebrice/SimpleParsing) : Allows you to transform your ugly argparse scripts into beautifully structured, strongly typed little works of art. This isn't a fancy, complicated new command-line tool either, this simply adds new features to plain-old argparse !
+
+- [Tap](https://github.com/swansonk14/typed-argument-parser) : Tap is a typed modernization of Python's argparse library.
+
+- [Tyro](https://github.com/brentyi/tyro) : Tool for generating command-line interfaces and configuration objects in Python.
 
 - [Typer](https://typer.tiangolo.com/) : Library for building CLI applications that users will love using and developers will love creating. It's intended to be the FastAPI of CLIs.
 
