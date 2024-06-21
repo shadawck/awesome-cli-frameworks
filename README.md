@@ -259,6 +259,8 @@ etc.
 
 - [Clize](https://github.com/epsy/clize) : An argument parser for Python. You can use Clize as an alternative to argparse if you want an even easier way to create command-line interfaces.
 
+- [Cyclopts](https://github.com/BrianPugh/cyclopts) : Intuitive, easy CLIs based on python type hints.
+
 - [Docopt](https://github.com/docopt/docopt) / [Docopt-NG](https://github.com/jazzband/docopt-ng) : Pythonic command line arguments parser, that will make you smile. docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
 
 - [jsonargparse](https://jsonargparse.readthedocs.io/) : Implement minimal boilerplate CLIs derived from type hints and parse from command line, config files and environment variables.
