@@ -340,6 +340,7 @@ etc.
 
 ## [Zig](https://ziglang.org/)
 
+- [cova](https://github.com/00JCIV00/cova): Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.
 - [zig-cli](https://github.com/sam701/zig-cli): A simple package for building command line apps in Zig.
 
 ## **Contributing**
