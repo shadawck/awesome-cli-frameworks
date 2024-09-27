@@ -263,6 +263,8 @@ etc.
 
 - [Docopt](https://github.com/docopt/docopt) / [Docopt-NG](https://github.com/jazzband/docopt-ng) : Pythonic command line arguments parser, that will make you smile. docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
 
+- [InquirerPy](https://inquirerpy.readthedocs.io/en/latest/). InquirerPy is a Python port of the famous Inquirer.js (A collection of common interactive command line user interfaces). This project is a re-implementation of the PyInquirer project, with bug fixes of known issues, new prompts, backward compatible APIs as well as more customisation options.
+
 - [jsonargparse](https://jsonargparse.readthedocs.io/) : Implement minimal boilerplate CLIs derived from type hints and parse from command line, config files and environment variables.
 
 - [Plac](https://github.com/ialbert/plac) : Generate command line parameters from function signatures.
@@ -271,7 +273,7 @@ etc.
 
 - [PyCli](https://pythonhosted.org/pyCLI/) : The cli package is a framework for making simple, correct command line applications in Python. With cli, you can quickly add standard command line parsing; logging; unit and functional testing; and profiling to your CLI apps.
 
-- [PyInquirer](https://github.com/CITGuru/PyInquirer) : PyInquirer strives to be an easily embeddable and beautiful command line interface for Python. PyInquirer wants to make it easy for existing Inquirer.js users to write immersive command line applications in Python.
+- [PyInquirer](https://github.com/CITGuru/PyInquirer) : PyInquirer strives to be an easily embeddable and beautiful command line interface for Python. PyInquirer wants to make it easy for existing Inquirer.js users to write immersive command line applications in Python. **No longer maintained**; replaced with [InquirerPy](https://inquirerpy.readthedocs.io/en/latest/).
 
 - [PyFiglet](https://github.com/pwaller/pyfiglet) : Pyfiglet is a full port of FIGlet (<http://www.figlet.org/>) into pure python. It takes ASCII text and renders it in ASCII art fonts.
 
