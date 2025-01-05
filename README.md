@@ -247,6 +247,8 @@ etc.
 
 ## [Python](https://www.python.org/)
 
+- [argrelay](https://argrelay.org) : A CLI framework with structured data search via arguments for custom tools. It indexes arbitrary data and interact with a stand-by server directly in **the standard shell**: validates against input schemas, `Tab`-completes contextually, `Alt+Shift+Q`-queries the interrogation progress, `Enter`-invokes domain logic.
+
 - [Argparse](https://docs.python.org/3/library/argparse.html) : Argparse is the default python module for creating command lines programs. It provides all the features you need to build a simple CLI.
 
 - [Click](https://github.com/pallets/click) : Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It's the "Command Line Interface Creation Kit". It's highly configurable but comes with sensible defaults out of the box.
