@@ -55,6 +55,8 @@
 
 - [gum](https://github.com/charmbracelet/gum) : A tool for glamorous shell scripts 🎀 (written in go).
 
+- [shifu](https://github.com/Ultramann/shifu) : A pure POSIX shell framework to create powerful CLIs.
+
 ## [Crystal](https://crystal-lang.org/)
 
 - [Athena Console](https://github.com/athena-framework/console) : Allows for the creation of CLI based commands.
