@@ -172,6 +172,7 @@ etc.
 - [Commander.js](https://github.com/tj/commander.js/) : The complete solution for node.js command-line interfaces.
 
 - [Gluegun](https://github.com/infinitered/gluegun) : A delightful toolkit for building TypeScript-powered command-line apps.
+- [grug-cli](https://github.com/grug-group420/grug-cli) : Zero-dependency developer toolkit built with Bun.js for scaffolding, linting, testing, and project management from the command line.
 
 - [Ink](https://github.com/vadimdemedes/ink) : React for interactive command-line apps. (See also [Pastel](https://github.com/vadimdemedes/pastel))
 
