@@ -165,6 +165,7 @@ etc.
 
 ## [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Clipanion](https://github.com/arcanis/clipanion) : Official CLI framework powering both the Yarn CLI - one of the most complex command-line tool in the ecosystem - and small internal scripts. Clipanion is designed with type safety in mind, and leverages a syntax as idiomatic as possible to avoid cluttering your code with boilerplate.
 
 - [Oclif](https://github.com/oclif/oclif) : Oclif is a framework for building CLIs in Node.js. This framework was built out of the Heroku CLI but generalized to build any custom CLI. It's designed both for single-file CLIs with a few flag options, or for very complex CLIs that have subcommands (like git or heroku).
@@ -183,6 +184,7 @@ etc.
 
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) : Inquirer.js strives to be an easily embeddable and beautiful command line interface for Node.js.
 
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [Vorpal](https://github.com/dthree/vorpal) : Vorpal is Node's first framework for building interactive CLI applications. With a simple and powerful API, Vorpal opens the door to a new breed of rich, immersive CLI environments. **[NOT MAINTAINED]**
 
 - [Yargs](https://github.com/yargs/yargs) : Yargs helps you build interactive command line tools, by parsing arguments and generating an elegant user interface.
