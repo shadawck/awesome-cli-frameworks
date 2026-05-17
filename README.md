@@ -285,6 +285,8 @@ etc.
 
 - [Typer](https://typer.tiangolo.com/) : Library for building CLI applications that users will love using and developers will love creating. It's intended to be the FastAPI of CLIs.
 
+- [click-to-mcp](https://github.com/coding-dev-tools/click-to-mcp) : Auto-wrap any Click or Typer CLI as an MCP (Model Context Protocol) server. Zero-config bridge from Python CLI tools to AI agent tools — expose CLI commands as MCP tools for Claude, Cursor, and other AI assistants.
+
 ## [Ruby](https://www.ruby-lang.org/)
 
 - [dry-ruby](https://github.com/dry-rb/dry-cli) : General purpose Command Line Interface (CLI) framework for Ruby.
