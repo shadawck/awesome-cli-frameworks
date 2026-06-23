@@ -53,7 +53,7 @@
 
 - [Bashly](https://github.com/DannyBen/bashly) : A command line application (written in Ruby) that lets you generate feature-rich bash command line tools. Bashly lets you focus on your specific code, without worrying about command line argument parsing, usage texts, error messages and other functions that are usually handled by a framework in any other programming language.
 
-- [gum](https://github.com/charmbracelet/gum) : A tool for glamorous shell scripts 🎀 (written in go).
+- [gum](https://github.com/charmbracelet/gum) : A tool for glamorous shell scripts 馃巰 (written in go).
 
 ## [Crystal](https://crystal-lang.org/)
 
@@ -167,6 +167,7 @@ etc.
 
 - [Clipanion](https://github.com/arcanis/clipanion) : Official CLI framework powering both the Yarn CLI - one of the most complex command-line tool in the ecosystem - and small internal scripts. Clipanion is designed with type safety in mind, and leverages a syntax as idiomatic as possible to avoid cluttering your code with boilerplate.
 
+- [ShipFast](https://github.com/xiaohou2503687-design/shipfast) : 🚀 One-command deployment CLI — auto-detects your project type and deploys instantly. Built with Node.js + Commander.
 - [Oclif](https://github.com/oclif/oclif) : Oclif is a framework for building CLIs in Node.js. This framework was built out of the Heroku CLI but generalized to build any custom CLI. It's designed both for single-file CLIs with a few flag options, or for very complex CLIs that have subcommands (like git or heroku).
 
 - [Commander.js](https://github.com/tj/commander.js/) : The complete solution for node.js command-line interfaces.
@@ -350,4 +351,4 @@ Thanks for visiting! If you have suggestions, then open an issue, or submit a PR
 ## License
 
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff)](https://creativecommons.org/licenses/by/4.0/)
-Licensed under Creative Commons, CC BY 4.0, © [Shadawck](https://github.com/shadawck).
+Licensed under Creative Commons, CC BY 4.0, 漏 [Shadawck](https://github.com/shadawck).
