@@ -123,6 +123,7 @@
 
 - [climate](https://github.com/avamsi/climate) : Autogenerates CLIs from structs / functions (nested subcommands, global / local flags, help generation, typo suggestions, shell completion etc.)
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI pentest platform and MCP host, covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [Cobra](https://github.com/spf13/cobra) : Many of the most widely used Go projects are built using Cobra, such as: [Kubernetes](http://kubernetes.io/), [Hugo](http://gohugo.io), [rkt](https://github.com/coreos/rkt), [etcd](https://github.com/coreos/etcd), [Moby (former Docker)](https://github.com/moby/moby), [Docker (distribution)](https://github.com/docker/distribution), [OpenShift](https://www.openshift.com/), [Delve](https://github.com/derekparker/delve), [GopherJS](http://www.gopherjs.org/), [CockroachDB](http://www.cockroachlabs.com/), [Bleve](http://www.blevesearch.com/), [ProjectAtomic (enterprise)](http://www.projectatomic.io/), [Giant Swarm's gsctl](https://github.com/giantswarm/gsctl), [Nanobox](https://github.com/nanobox-io/nanobox)/[Nanopack](https://github.com/nanopack), [rclone](http://rclone.org/), [nehm](https://github.com/bogem/nehm), [Pouch](https://github.com/alibaba/pouch), [Istio](https://istio.io), [Prototool](https://github.com/uber/prototool), [mattermost-server](https://github.com/mattermost/mattermost-server), [Gardener](https://github.com/gardener/gardenctl), [Linkerd](https://linkerd.io/),
 etc.
 
