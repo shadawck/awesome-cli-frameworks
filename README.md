@@ -269,7 +269,7 @@ etc.
 
 - [Python-Fire](https://github.com/google/python-fire) : Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
-- [PyCli](https://pythonhosted.org/pyCLI/) : The cli package is a framework for making simple, correct command line applications in Python. With cli, you can quickly add standard command line parsing; logging; unit and functional testing; and profiling to your CLI apps.
+- **[archived]** [PyCli](https://pythonhosted.org/pyCLI/) : ~~The cli package is a framework for making simple, correct command line applications in Python. With cli, you can quickly add standard command line parsing; logging; unit and functional testing; and profiling to your CLI apps.~~ 
 
 - [PyInquirer](https://github.com/CITGuru/PyInquirer) : PyInquirer strives to be an easily embeddable and beautiful command line interface for Python. PyInquirer wants to make it easy for existing Inquirer.js users to write immersive command line applications in Python.
 
