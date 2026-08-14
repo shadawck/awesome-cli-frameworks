@@ -103,6 +103,8 @@
 
 - [gui.cs](https://github.com/migueldeicaza/gui.cs) : Console-based user interface toolkit for .NET applications.
 
+- [Repl Toolkit](https://github.com/yllibed/repl) : Repl Toolkit lets you build a unified command surface for .NET. Define your commands once and expose them as a CLI, interactive REPL, remote terminal server or even an AI agent through MCP with built-in typed responses and automatic JSON/XML/YAML/Markdown output.
+
 - [spectre.console](https://github.com/spectreconsole/spectre.console) : A .NET 5/.NET Standard 2.0 library that makes it easier to create beautiful, cross platform, console applications.
 
 ### Useful awesome list for Dotnet cli
