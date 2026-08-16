@@ -191,6 +191,8 @@ etc.
 
 - [Termost](https://github.com/adbayb/termost): A full-featured framework to build your next command line interfaces (CLI) in a minute. Thanks to its fluent and type-safe API, you can easily express and manage your program metadata (including version and help), sub-commands, user prompts, tasks, options and flags, ...
 
+- [Gud CLI](https://github.com/ryangoree/gud-cli): A modern TypeScript framework that makes creating interactive CLI applications effortless. Instead of forcing users to memorize complex commands, your CLI can guide them through an intuitive, conversational experience.
+
 ## [Julia](https://julialang.org/)
 
 - [Comonicon.jl](https://github.com/comonicon/Comonicon.jl) : Your best CLI generator in JuliaLang.
@@ -351,3 +353,4 @@ Thanks for visiting! If you have suggestions, then open an issue, or submit a PR
 
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff)](https://creativecommons.org/licenses/by/4.0/)
 Licensed under Creative Commons, CC BY 4.0, © [Shadawck](https://github.com/shadawck).
+
