@@ -284,6 +284,7 @@ etc.
 - [Tyro](https://github.com/brentyi/tyro) : Tool for generating command-line interfaces and configuration objects in Python.
 
 - [Typer](https://typer.tiangolo.com/) : Library for building CLI applications that users will love using and developers will love creating. It's intended to be the FastAPI of CLIs.
+- [Xclif](https://xclif.readthedocs.io/en/latest/) : Xclif is an opinionated Python framework for building beautiful, scalable CLIs that feature file-based routing and a decorator-based API.
 
 ## [Ruby](https://www.ruby-lang.org/)
 
