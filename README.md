@@ -342,6 +342,7 @@ etc.
 
 - [cova](https://github.com/00JCIV00/cova): Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.
 - [zig-cli](https://github.com/sam701/zig-cli): A simple package for building command line apps in Zig.
+- [supercli](https://github.com/javimosch/supercli) - Universal CLI runtime with 7,003 plugins. Agent-native discovery, deterministic JSON output, MCP support. Written in Zig + Node.js.
 
 ## **Contributing**
 
