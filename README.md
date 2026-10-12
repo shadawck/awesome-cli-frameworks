@@ -265,6 +265,8 @@ etc.
 
 - [jsonargparse](https://jsonargparse.readthedocs.io/) : Implement minimal boilerplate CLIs derived from type hints and parse from command line, config files and environment variables.
 
+- [nuke-di](https://github.com/troyan-dy/nuke-di) : The `@job` decorator turns a type-hinted async function into the main program of a process, with no `main()`, `asyncio.run()` or parser code. Every annotated argument becomes a typed, validated option (`str`, `int`, `float`, `Path`, `bool` as `--flag/--no-flag`, ISO dates, enums, repeated `list[T]`), `--help` is generated from the signature and the docstring, and a wrong command line exits with code 2 before anything starts. Arguments typed as clients (a database, a queue, an HTTP API) are injected, connected before the function runs and closed after it, and the exit code tells a scheduler whether to retry. Built on argparse, no runtime dependencies.
+
 - [Plac](https://github.com/ialbert/plac) : Generate command line parameters from function signatures.
 
 - [Python-Fire](https://github.com/google/python-fire) : Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
