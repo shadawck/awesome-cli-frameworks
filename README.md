@@ -190,6 +190,7 @@ etc.
 - [Clerc](https://github.com/clercjs/clerc) : Clerc is a full-featured library for building CLI Apps in Node.js, Deno or Bun. It's strongly-typed, easy-to-use and flexible.
 
 - [Termost](https://github.com/adbayb/termost): A full-featured framework to build your next command line interfaces (CLI) in a minute. Thanks to its fluent and type-safe API, you can easily express and manage your program metadata (including version and help), sub-commands, user prompts, tasks, options and flags, ...
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) : Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## [Julia](https://julialang.org/)
 
